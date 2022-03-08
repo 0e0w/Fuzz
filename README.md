@@ -3,3 +3,4 @@
 
 - https://github.com/cpuu/awesome-fuzzing
 - https://github.com/lcatro/Source-and-Fuzzing
+- https://github.com/AFLplusplus/AFLplusplus
